@@ -2,7 +2,7 @@
 {
 	"***30 seconds for pressing button!!!***"
 	{
-		"chi"		"** 30秒按下按钮 **"
+		"chi"		"** 测试修改内容 ! **"
 	}
 	"***30 second for pressing button!!!***"
 	{
